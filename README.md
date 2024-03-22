@@ -6,7 +6,9 @@
 - https://medium.com/analytics-vidhya/handling-categories-with-pandas-bfe7d28b2f91
 - https://www.w3schools.com/python/python_regex.asp
 - https://saturncloud.io/blog/how-to-apply-regex-to-a-pandas-dataframe/
-- Data Collection Challenge
+- https://www.kaggle.com/discussions/general/332692
+- https://stackoverflow.com/questions/65435931/string-split-using-a-delimiter-on-pandas-column-to-create-new-columns
+- Data Collection Analysis Prjoect
 - Peers
-- Class Activities
+- BCS Activities
 - Xpert Learning Assistant
