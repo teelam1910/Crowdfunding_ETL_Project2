@@ -7,4 +7,4 @@
 - Data Collection Challenge
 - Peers
 - Class Activities
-- 
+- Xpert Learning Assistant
