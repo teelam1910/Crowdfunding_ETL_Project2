@@ -8,6 +8,10 @@
 - https://saturncloud.io/blog/how-to-apply-regex-to-a-pandas-dataframe/
 - https://www.kaggle.com/discussions/general/332692
 - https://stackoverflow.com/questions/65435931/string-split-using-a-delimiter-on-pandas-column-to-create-new-columns
+- https://www.google.com/search?q=how+to+use+quick+dbd&oq=&gs_lcrp=EgZjaHJvbWUqBggCEEUYOzIGCAAQRRg5MgYIARBFGEAyBggCEEUYOzIMCAMQIxgnGIAEGIoFMgcIBBAAGIAEMgcIBRAAGIAEMgcIBhAAGIAEMgcIBxAAGIAE0gEINDY0OWowajeoAgCwAgA&sourceid=chrome&ie=UTF-8#kpvalbx=_3hr9ZZO7N9L1kPIP88y7OA_28
+- https://www.postgresql.org/docs/current/sql-droptable.html
+- https://www.postgresql.org/docs/7.4/datatype.html#:~:text=PostgreSQL%20also%20supports%20the%20SQL,(53)%20select%20double%20precision.
+
 - Data Collection Analysis Prjoect
 - Peers
 - BCS Activities
