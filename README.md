@@ -4,6 +4,24 @@
 ## Description
 In this ETL mini project, an ETL pipeline has been constructed using Python and Pandas. Data has been extracted and transformed using Python dictionary methods and/or regular expressions, and four CSV files have been created. From these files, an ERD and a table schema has been created and the CSV dataloaded into a Postgres database.
 
+### File name 'ETL_Mini_Project_TLaMar.ipynb' will include the creation of:
+- Category and Subcategory DataFrames
+- Campaign DataFrame
+- Contacts DataFrame
+- Crowdfunding Database
+- Option 2 'regular expressions (regex)' was used to create the 'contacts' dataframe and extract and transform data.
+![regex](https://github.com/teelam1910/Crowdfunding_ETL_Project2/assets/132629216/7eb874e8-547c-41ec-87ac-85998bae2585)
+
+### Resource Folder
+The Resource folder is comprised of 4 extracted Dataframes:
+- campaign.csv
+- category.csv
+- subcategory.csv
+- contacts.csv <br>
+The crowdfunding_db schema and queries are also located in the Resource Folder
+
+
+
 ## Images
 ### Crowdfunding ERD
 ![Crowdfunding_ERD](https://github.com/teelam1910/Crowdfunding_ETL_Project2/assets/132629216/fec2a501-84b2-4878-b861-9f15b7efa6f3)
