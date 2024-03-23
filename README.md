@@ -1,4 +1,54 @@
-# Crowdfunding_ETL_Project2
+# Crowdfunding-ETL Project
+
+
+## Description
+In this ETL mini project, an ETL pipeline has been constructed using Python and Pandas. Data has been extracted and transformed using Python dictionary methods and/or regular expressions, and four CSV files have been created. From these files, an ERD and a table schema has been created and the CSV dataloaded into a Postgres database.
+
+## Images
+
+## Table of Contents
+- [Installation](#installation)
+- [Usage](#usage)
+- [Process](#process)
+- [Credits](#credits)
+
+- [Features](#features)
+
+- [Contact](#contact)
+-  [Resources](#resources)
+
+## Installation
+Pandas//NumPy//PgAdmin//QuickDBD
+
+## Usage
+This project is a hands-on exercise that reinforces ETL processes, database management, and data manipulation
+
+## Process
+### Testing
+-Verify that the data extracted from the source files retains its integrity throughout the transformation and loading process.
+-Check that the data transformation operations produce the expected results. This includes verifying data formatting, cleaning, and calculations.
+-Ensure that the data is loaded correctly into the PostgreSQL database tables without loss or corruption.
+-Validate the quality of the data after transformation and loading. 
+-Confirm that the database schema matches the expected structure defined in the ERD and table schema.
+-Evaluate the performance of the ETL process.
+-Perform end-to-end testing of the entire ETL pipeline to ensure all components work together seamlessly.
+
+
+
+## Credits
+Tiffany La Mar
+
+
+
+## Features
+This project involves key features such as ETL processes, data extraction, and transformation. It also includes database management tasks, data manipulation, and documentation. Overall, it offers practical experience in data engineering and database management.
+
+
+
+## Contact
+If there are any questions of concerns, I can be reached at:
+##### [github: teelam1910](https://github.com/teelam1910)
+##### [email: tiffanylamarj@gmail.com](mailto:tiffanylamarj@gmail.com)
 
 ## Resources
 - https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.merge.html
