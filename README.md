@@ -27,10 +27,8 @@ The crowdfunding_db schema and queries are also located in the Resource Folder
 - [Installation](#installation)
 - [Usage](#usage)
 - [Process](#process)
-- [Credits](#credits)
-
 - [Features](#features)
-
+- [Credits](#credits)
 - [Contact](#contact)
 -  [Resources](#resources)
 
@@ -57,15 +55,14 @@ This project is a hands-on exercise that reinforces ETL processes, database mana
 
 
 
-## Credits
-Tiffany La Mar
-
 
 
 ## Features
 This project involves key features such as ETL processes, data extraction, and transformation. It also includes database management tasks, data manipulation, and documentation. Overall, it offers practical experience in data engineering and database management.
 
 
+## Credits
+Tiffany La Mar
 
 ## Contact
 If there are any questions of concerns, I can be reached at:
