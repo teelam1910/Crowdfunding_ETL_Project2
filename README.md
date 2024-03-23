@@ -47,13 +47,13 @@ This project is a hands-on exercise that reinforces ETL processes, database mana
 
 ## Process
 ### Testing
--Verify that the data extracted from the source files retains its integrity throughout the transformation and loading process.
--Check that the data transformation operations produce the expected results. This includes verifying data formatting, cleaning, and calculations.
--Ensure that the data is loaded correctly into the PostgreSQL database tables without loss or corruption.
--Validate the quality of the data after transformation and loading. 
--Confirm that the database schema matches the expected structure defined in the ERD and table schema.
--Evaluate the performance of the ETL process.
--Perform end-to-end testing of the entire ETL pipeline to ensure all components work together seamlessly.
+-Verify that the data extracted from the source files retains its integrity throughout the transformation and loading process. <br>
+-Check that the data transformation operations produce the expected results. This includes verifying data formatting, cleaning, and calculations. <br>
+-Ensure that the data is loaded correctly into the PostgreSQL database tables without loss or corruption. <br>
+-Validate the quality of the data after transformation and loading. <br>
+-Confirm that the database schema matches the expected structure defined in the ERD and table schema.<br>
+-Evaluate the performance of the ETL process.<br>
+-Perform end-to-end testing of the entire ETL pipeline to ensure all components work together seamlessly.<br>
 
 
 
