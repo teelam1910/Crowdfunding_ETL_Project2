@@ -10,9 +10,14 @@
 - https://stackoverflow.com/questions/65435931/string-split-using-a-delimiter-on-pandas-column-to-create-new-columns
 - https://www.google.com/search?q=how+to+use+quick+dbd&oq=&gs_lcrp=EgZjaHJvbWUqBggCEEUYOzIGCAAQRRg5MgYIARBFGEAyBggCEEUYOzIMCAMQIxgnGIAEGIoFMgcIBBAAGIAEMgcIBRAAGIAEMgcIBhAAGIAEMgcIBxAAGIAE0gEINDY0OWowajeoAgCwAgA&sourceid=chrome&ie=UTF-8#kpvalbx=_3hr9ZZO7N9L1kPIP88y7OA_28
 - https://www.postgresql.org/docs/current/sql-droptable.html
-- https://www.postgresql.org/docs/7.4/datatype.html#:~:text=PostgreSQL%20also%20supports%20the%20SQL,(53)%20select%20double%20precision.
-
+- https://www.postgresql.org/docs/7.4/datatype.html#:~:text=PostgreSQL%20also%20supports%20the%20SQL,(53)%20select%20double%20precision
+- https://ravi-chan.medium.com/beginners-guide-to-regex-in-pandas-308b79e477e6
+- https://pandas.pydata.org/docs/reference/api/pandas.Series.str.extract.html
+- https://stackoverflow.com/questions/25292838/applying-regex-to-a-pandas-dataframe
+- https://towardsdatascience.com/regular-expressions-regex-with-examples-in-python-and-pandas-461228335670
 - Data Collection Analysis Prjoect
-- Peers
+- SQL Project
 - BCS Activities
+- BCS Tutoring
 - Xpert Learning Assistant
+- Peers
