@@ -5,6 +5,8 @@
 In this ETL mini project, an ETL pipeline has been constructed using Python and Pandas. Data has been extracted and transformed using Python dictionary methods and/or regular expressions, and four CSV files have been created. From these files, an ERD and a table schema has been created and the CSV dataloaded into a Postgres database.
 
 ## Images
+### Crowdfunding ERD
+![Crowdfunding_ERD](https://github.com/teelam1910/Crowdfunding_ETL_Project2/assets/132629216/fec2a501-84b2-4878-b861-9f15b7efa6f3)
 
 ## Table of Contents
 - [Installation](#installation)
