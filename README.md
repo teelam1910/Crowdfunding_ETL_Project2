@@ -22,11 +22,8 @@ The crowdfunding_db schema and queries are also located in the Resource Folder
 
 
 
-## Images
-### Crowdfunding ERD
-![Crowdfunding_ERD](https://github.com/teelam1910/Crowdfunding_ETL_Project2/assets/132629216/fec2a501-84b2-4878-b861-9f15b7efa6f3)
-
 ## Table of Contents
+- [Images](#images)
 - [Installation](#installation)
 - [Usage](#usage)
 - [Process](#process)
@@ -36,6 +33,11 @@ The crowdfunding_db schema and queries are also located in the Resource Folder
 
 - [Contact](#contact)
 -  [Resources](#resources)
+
+
+## Images
+### Crowdfunding ERD
+![Crowdfunding_ERD](https://github.com/teelam1910/Crowdfunding_ETL_Project2/assets/132629216/fec2a501-84b2-4878-b861-9f15b7efa6f3)
 
 ## Installation
 Pandas//NumPy//PgAdmin//QuickDBD
